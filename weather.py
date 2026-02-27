@@ -1,0 +1,1 @@
+def get_info(): return "Hava 5°C"
